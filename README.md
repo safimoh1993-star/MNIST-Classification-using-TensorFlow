@@ -1,4 +1,4 @@
-# 🖊️ MNIST Handwritten Digit Classification
+# 🖊️ MNIST Classification using TensorFlow
 
 ## 🌟 Overview
 This educational project demonstrates the classification of handwritten digits (0–9) using **TensorFlow and Keras**.  
